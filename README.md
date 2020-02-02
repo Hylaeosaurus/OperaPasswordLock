@@ -2,7 +2,7 @@
 
 WindowsSecurityLogin can help get a current users credentials by showing a fake windows security login screen, the output will be sent to a link such as requestbin which can be edited in 'MainWindow.xaml.cs'.
 
-(The web browser Opera was just used as an example to show what types of scenarios this can be used in.)
+(The web browser Opera was just used as an example to show what types of scenarios this can be used in)
 
 * Windows 10
 * Changes based on accent color
