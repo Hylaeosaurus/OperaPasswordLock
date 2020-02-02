@@ -12,4 +12,4 @@ WindowsSecurityLogin can help get a current users credentials by showing a fake 
 * Edit application theme whether the computers theme is light or dark
 
 ![Example image](https://github.com/Hylaeosaurus/OperaPasswordLock/blob/master/get.png)
-![Example image2](https://github.com/Hylaeosaurus/OperaPasswordLock/blob/master/OperaPasswordLock.png)
+![Example image2](https://github.com/Hylaeosaurus/OperaPasswordLock/blob/master/WindowsSecurityLogin.png)
